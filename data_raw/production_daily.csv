@@ -1,1 +1,6 @@
+date,plant,production_ton,downtime_hours,shift
+2024-01-01,Tuban,3200,2,Morning
+2024-01-01,Gresik,2800,1,Night
+2024-01-02,Tuban,3000,3,Morning
+2024-01-02,Gresik,2900,0,Night
 
