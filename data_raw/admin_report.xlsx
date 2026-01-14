@@ -1,6 +1,4 @@
-| report_id | plant  | report_type | status  | report_date |
-| --------- | ------ | ----------- | ------- | ----------- |
-| R001      | Tuban  | Production  | Done    | 2024-01-01  |
-| R002      | Gresik | Maintenance | Pending | 2024-01-01  |
-| R003      | Tuban  | Safety      | Done    | 2024-01-02  |
-
+report_id,	plant,	report_type,	status,	report_date
+R001,	Tuban,	Production,	Done,	2024-01-01
+R002,	Gresik,	Maintenance,	Pending,	2024-01-01
+R003,	Tuban,	Safety,	Done,	2024-01-02
